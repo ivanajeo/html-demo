@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     background: #0f172a;
     color: white;
@@ -13,6 +14,7 @@ body {
     gap: 14px;
     font-family: sans-serif, 'Times New Roman', Times, serif;
 }
+
 header {
     display: flex;
     align-items: center;
